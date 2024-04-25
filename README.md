@@ -14,7 +14,7 @@ This weather app fetches current weather data from the OpenWeatherMap API and di
 
 - Allows users to enter their location and fetch current weather data.
 - Displays weather information including temperature, description, humidity, and wind speed.
-- Provides visual representation of weather conditions with corresponding icons.
+- Provides a visual representation of weather conditions with corresponding icons.
 
 ## Getting Started
 
@@ -29,6 +29,9 @@ Before running the application, you'll need to obtain an API key from [OpenWeath
    git clone https://github.com/PatelAerisM/Weather-App.git
 
 2. Open index.html in your web browser.
+
+
+NOTE: While using images from this file change the path of images in your code if you change the folder name of images.
 
 
 Contributing
